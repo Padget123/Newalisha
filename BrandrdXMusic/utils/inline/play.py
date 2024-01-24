@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="◉ ᴍᴇɴᴜ ", callback_data=f"PanelMarkup {videoid}|{chat_id}",
+                text="◉ ᴏᴡɴᴇʀ", url=f"https://t.me/btwabhimanyu"
             ),
             
             InlineKeyboardButton(
@@ -91,7 +91,7 @@ def stream_markup(_, chat_id):
         ],
          [
             InlineKeyboardButton(
-                text="◉ ᴍᴇɴᴜ ", callback_data=f"PanelMarkup {videoid}|{chat_id}",
+                text="◉ ᴏᴡɴᴇʀ", url=f"https://t.me/btwabhimanyu"
             ),
             InlineKeyboardButton(
                 text="◉ ꜱᴜᴘᴘᴏʀᴛ ", url=f"https://t.me/friendshipworldgroup"
